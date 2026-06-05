@@ -1,0 +1,13 @@
+# Data files — never committed
+data/raw/
+data/processed/
+*.xls
+*.xlsx
+*.csv
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
